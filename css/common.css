@@ -23,3 +23,12 @@
     cursor: pointer;
   }
   
+  .images {
+    list-style-type: none;
+    display: inline;
+    padding-right: 10px;
+  }
+
+  .images>img {
+    height: 250px;
+  }
